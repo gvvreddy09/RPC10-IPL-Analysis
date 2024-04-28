@@ -1,293 +1,293 @@
-name,team,battingStyle,bowlingStyle,playingRole
-RuturajGaikwad,Super Kings,Right hand Bat,Right arm Offbreak,Batter
-FafduPlessis,Super Kings,Right hand Bat,Legbreak,Middle order Batter
-RobinUthappa,Super Kings,Right hand Bat,Right arm Medium,Batter
-MoeenAli,Super Kings,Left hand Bat,Right arm Offbreak,Batting Allrounder
-ShubmanGill,KKR,Right hand Bat,Right arm Offbreak,Opening Batter
-VenkateshIyer,KKR,Left hand Bat,Right arm Medium,Allrounder
-NitishRana,KKR,Left hand Bat,"Right arm Medium, Right arm Offbreak, Legbreak",Middle order Batter
-SunilNarine,KKR,Left hand Bat,Right arm Offbreak,Bowling Allrounder
-EoinMorgan,KKR,Left hand Bat,Right arm Medium,Middle order Batter
-DineshKarthik,KKR,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter
-ShakibAlHasan,KKR,Left hand Bat,Slow Left arm Orthodox,Allrounder
-RahulTripathi,KKR,Right hand Bat,Right arm Medium,Top order Batter
-LockieFerguson,KKR,Right hand Bat,Right arm Fast,Bowler
-ShivamMavi,KKR,Right hand Bat,Right arm Fast medium,Bowler
-VarunChakravarthy,KKR,Right hand Bat,Legbreak Googly,Bowler
-DeepakChahar,Super Kings,Right hand Bat,Right arm Medium,Bowler
-JoshHazlewood,Super Kings,Left hand Bat,Right arm Fast medium,Bowler
-ShardulThakur,Super Kings,Right hand Bat,Right arm Medium,Bowler
-DwayneBravo,Super Kings,Right hand Bat,Right arm Medium,Allrounder
-RavindraJadeja,Super Kings,Left hand Bat,Slow Left arm Orthodox,Allrounder
-PrithviShaw,Capitals,Right hand Bat,Right arm Offbreak,Opening Batter
-ShikharDhawan,Capitals,Left hand Bat,Right arm Offbreak,Opening Batter
-MarcusStoinis,Capitals,Right hand Bat,Right arm Medium,Batting Allrounder
-ShreyasIyer,Capitals,Right hand Bat,"Right arm Offbreak, Legbreak Googly",Top order Batter
-RishabhPant,Capitals,Left hand Bat,Not Available,Wicketkeeper Batter
-ShimronHetmyer,Capitals,Left hand Bat,Not Available,Top order Batter
-AxarPatel,Capitals,Left hand Bat,Slow Left arm Orthodox,Bowling Allrounder
-AnrichNortje,Capitals,Right hand Bat,Right arm Fast,Bowler
-RavichandranAshwin,Capitals,Right hand Bat,Right arm Offbreak,Bowling Allrounder
-AveshKhan,Capitals,Right hand Bat,Right arm Fast medium,Bowler
-KagisoRabada,Capitals,Left hand Bat,Right arm Fast,Bowler
-DevduttPadikkal,RCB,Left hand Bat,Right arm Offbreak,Top order Batter
-ViratKohli,RCB,Right hand Bat,Right arm Medium,Top order Batter
-SrikarBharat,RCB,Right hand Bat,Not Available,Wicketkeeper Batter
-GlennMaxwell,RCB,Right hand Bat,Right arm Offbreak,Batting Allrounder
-ABdeVilliers,RCB,Right hand Bat,Right arm Medium,Wicketkeeper Batter
-ShahbazAhmed,RCB,Left hand Bat,Slow Left arm Orthodox,Allrounder
-DanChristian,RCB,Right hand Bat,Right arm Fast medium,Allrounder
-HarshalPatel,RCB,Right hand Bat,Right arm Medium,Bowler
-GeorgeGarton,RCB,Left hand Bat,Left arm Fast,Bowling Allrounder
-MohammedSiraj,RCB,Right hand Bat,Right arm Fast,Bowler
-YuzvendraChahal,RCB,Right hand Bat,Legbreak Googly,Bowler
-TomCurran,Capitals,Right hand Bat,Right arm Fast medium,Bowling Allrounder
-AmbatiRayudu,Super Kings,Right hand Bat,Right arm Offbreak,Middle order Batter
-MSDhoni,Super Kings,Right hand Bat,Right arm Medium,Wicketkeeper Batter
-RipalPatel,Capitals,Right hand Bat,Right arm Medium fast,Middle order Batter
-RohitSharma,Mumbai,Right hand Bat,Right arm Offbreak,Top order Batter
-IshanKishan,Mumbai,Left hand Bat,Not Available,Wicketkeeper Batter
-HardikPandya,Mumbai,Right hand Bat,Right arm Medium fast,Allrounder
-KieronPollard,Mumbai,Right hand Bat,Right arm Medium,Batting Allrounder
-SuryakumarYadav,Mumbai,Right hand Bat,"Right arm Medium, Right arm Offbreak",Batter
-JamesNeesham,Mumbai,Left hand Bat,Right arm Medium fast,Batting Allrounder
-KrunalPandya,Mumbai,Left hand Bat,Slow Left arm Orthodox,Allrounder
-NathanCoulter-Nile,Mumbai,Right hand Bat,Right arm Fast,Bowling Allrounder
-PiyushChawla,Mumbai,Left hand Bat,Legbreak,Bowling Allrounder
-JaspritBumrah,Mumbai,Right hand Bat,Right arm Fast,Bowler
-TrentBoult,Mumbai,Right hand Bat,Left arm Fast medium,Bowler
-JasonRoy,Sunrisers,Right hand Bat,Not Available,Opening Batter
-AbhishekSharma,Sunrisers,Left hand Bat,Slow Left arm Orthodox,Allrounder
-ManishPandey,Sunrisers,Right hand Bat,Right arm Medium,Top order Batter
-MohammadNabi,Sunrisers,Right hand Bat,Right arm Offbreak,Allrounder
-AbdulSamad,Sunrisers,Right hand Bat,Legbreak,Batter
-PriyamGarg,Sunrisers,Right hand Bat,Right arm Medium,Top order Batter
-JasonHolder,Sunrisers,Right hand Bat,Right arm Medium fast,Bowling Allrounder
-RashidKhan,Sunrisers,Right hand Bat,Legbreak Googly,Bowling Allrounder
-WriddhimanSaha,Sunrisers,Right hand Bat,Not Available,Wicketkeeper Batter
-SiddarthKaul,Sunrisers,Right hand Bat,Right arm Medium,Bowler
-UmranMalik,Sunrisers,Right hand Bat,Right arm Fast,Bowler
-YashasviJaiswal,Royals,Left hand Bat,Legbreak,Opening Batter
-LiamLivingstone,Royals,Right hand Bat,"Right arm Offbreak, Legbreak",Batting Allrounder
-SanjuSamson,Royals,Right hand Bat,Not Available,Wicketkeeper Batter
-ShivamDube,Royals,Left hand Bat,Right arm Medium,Allrounder
-AnujRawat,Royals,Left hand Bat,Not Available,Wicketkeeper Batter
-GlennPhillips,Royals,Right hand Bat,Right arm Offbreak,Allrounder
-RahulTewatia,Royals,Left hand Bat,Legbreak,Bowling Allrounder
-ChrisMorris,Royals,Right hand Bat,Right arm Fast medium,Bowling Allrounder
-JaydevUnadkat,Royals,Right hand Bat,Left arm Medium,Bowler
-ChetanSakariya,Royals,Left hand Bat,Left arm Medium fast,Bowler
-MustafizurRahman,Royals,Left hand Bat,Left arm Fast medium,Bowler
-KLRahul,Punjab Kings,Right hand Bat,Not Available,Wicketkeeper Batter
-MayankAgarwal,Punjab Kings,Right hand Bat,Right arm Offbreak,Batter
-SarfarazKhan,Punjab Kings,Right hand Bat,Legbreak,Middle order Batter
-MShahrukhKhan,Punjab Kings,Right hand Bat,Right arm Offbreak,Batter
-AidenMarkram,Punjab Kings,Right hand Bat,Right arm Offbreak,Opening Batter
-MoisesHenriques,Punjab Kings,Right hand Bat,Right arm Fast medium,Allrounder
-MohammedShami,Punjab Kings,Right hand Bat,Right arm Fast,Bowler
-HarpreetBrar,Punjab Kings,Left hand Bat,Slow Left arm Orthodox,Bowler
-ArshdeepSingh,Punjab Kings,Left hand Bat,Left arm Medium fast,Bowler
-ChrisJordan,Punjab Kings,Right hand Bat,Right arm Fast medium,Bowler
-RaviBishnoi,Punjab Kings,Right hand Bat,Legbreak Googly,Bowler
-KaneWilliamson,Sunrisers,Right hand Bat,Right arm Offbreak,Top order Batter
-BhuvneshwarKumar,Sunrisers,Right hand Bat,Right arm Medium,Bowler
-EvinLewis,Royals,Left hand Bat,Not Available,Opening Batter
-DavidMiller,Royals,Left hand Bat,Right arm Offbreak,Middle order Batter
-ShreyasGopal,Royals,Right hand Bat,Legbreak,Allrounder
-KuldipYadav,Royals,Left hand Bat,Left arm Fast medium,Bowler
-JayantYadav,Mumbai,Right hand Bat,Right arm Offbreak,Bowler
-TimSouthee,KKR,Right hand Bat,Right arm Medium fast,Bowler
-NicholasPooran,Punjab Kings,Left hand Bat,Right arm Offbreak,Wicketkeeper Batter
-SureshRaina,Super Kings,Left hand Bat,Right arm Offbreak,Middle order Batter
-AkashSingh,Royals,Right hand Bat,Left arm Medium fast,Bowler
-MayankMarkande,Royals,Right hand Bat,Legbreak,Bowler
-SamCurran,Super Kings,Left hand Bat,Left arm Medium fast,Allrounder
-KMAsif,Super Kings,Right hand Bat,Right arm Medium,Bowler
-QuintondeKock,Mumbai,Left hand Bat,Not Available,Wicketkeeper Batter
-SaurabhTiwary,Mumbai,Left hand Bat,Not Available,Top order Batter
-StevenSmith,Capitals,Right hand Bat,Legbreak Googly,Top order Batter
-TimSeifert,KKR,Right hand Bat,Not Available,Wicketkeeper Batter
-DeepakHooda,Punjab Kings,Right hand Bat,Right arm Offbreak,Allrounder
-FabianAllen,Punjab Kings,Right hand Bat,Slow Left arm Orthodox,Bowling Allrounder
-NathanEllis,Punjab Kings,Right hand Bat,Right arm Fast medium,Bowler
-SandeepSharma,Sunrisers,Right hand Bat,Right arm Medium,Bowler
-MahipalLomror,Royals,Left hand Bat,Slow Left arm Orthodox,Allrounder
-RiyanParag,Royals,Right hand Bat,Legbreak,Top order Batter
-KartikTyagi,Royals,Right hand Bat,Right arm Fast,Bowler
-MandeepSingh,Punjab Kings,Right hand Bat,Right arm Medium,Allrounder
-ChrisGayle,Punjab Kings,Left hand Bat,Right arm Offbreak,Allrounder
-RahulChahar,Mumbai,Right hand Bat,Legbreak Googly,Bowler
-LalitYadav,Capitals,Right hand Bat,Right arm Offbreak,Allrounder
-SandeepWarrier,KKR,Right hand Bat,Right arm Medium,Bowler
-KyleJamieson,RCB,Right hand Bat,Right arm Fast medium,Bowler
-AdamMilne,Mumbai,Right hand Bat,Right arm Fast,Bowler
-AndreRussell,KKR,Right hand Bat,Right arm Fast,Allrounder
-PrasidhKrishna,KKR,Right hand Bat,Right arm Fast medium,Bowler
-DavidWarner,Sunrisers,Left hand Bat,Legbreak,Opening Batter
-KedarJadhav,Sunrisers,Right hand Bat,Right arm Offbreak,Batting Allrounder
-KhaleelAhmed,Sunrisers,Right hand Bat,Left arm Fast medium,Bowler
-TabraizShamsi,Royals,Right hand Bat,Left arm Wrist spin,Bowler
-TimDavid,RCB,Right hand Bat,Right arm Offbreak,Middle order Batter
-WaninduHasaranga,RCB,Right hand Bat,Legbreak,Allrounder
-NavdeepSaini,RCB,Right hand Bat,Right arm Fast,Bowler
-IshanPorel,Punjab Kings,Right hand Bat,Right arm Medium,Bowler
-AdilRashid,Punjab Kings,Right hand Bat,Legbreak,Bowler
-SachinBaby,RCB,Left hand Bat,Right arm Offbreak,Batter
-AnmolpreetSingh,Mumbai,Right hand Bat,Right arm Offbreak,Batter
-PrabhsimranSingh,Punjab Kings,Right hand Bat,Not Available,Wicketkeeper Batter
-DawidMalan,Punjab Kings,Left hand Bat,Legbreak,Top order Batter
-IshantSharma,Capitals,Right hand Bat,Right arm Fast medium,Bowler
-RileyMeredith,Punjab Kings,Right hand Bat,Right arm Fast,Bowler
-JosButtler,Royals,Right hand Bat,Not Available,Wicketkeeper Batter
-JonnyBairstow,Sunrisers,Right hand Bat,Right arm Medium,Wicketkeeper Batter
-VijayShankar,Sunrisers,Right hand Bat,Right arm Medium,Allrounder
-DhawalKulkarni,Mumbai,Right hand Bat,Right arm Medium,Bowler
-LungiNgidi,Super Kings,Right hand Bat,Right arm Fast medium,Bowler
-RajatPatidar,RCB,Right hand Bat,Right arm Offbreak,Top order Batter
-DanielSams,RCB,Right hand Bat,Left arm Fast medium,Allrounder
-PatCummins,KKR,Right hand Bat,Right arm Fast,Bowler
-JagadeeshaSuchith,Sunrisers,Left hand Bat,Slow Left arm Orthodox,Bowler
-WashingtonSundar,RCB,Left hand Bat,Right arm Offbreak,Bowling Allrounder
-AmitMishra,Capitals,Right hand Bat,Legbreak,Bowler
-ImranTahir,Super Kings,Right hand Bat,Legbreak Googly,Bowler
-MananVohra,Royals,Right hand Bat,Right arm Medium,Opening Batter
-KaneRichardson,RCB,Right hand Bat,Right arm Fast medium,Bowler
-KamleshNagarkoti,KKR,Right hand Bat,Right arm Fast,Bowler
-MuruganAshwin,Punjab Kings,Right hand Bat,Legbreak Googly,Bowler
-ChrisWoakes,Capitals,Right hand Bat,Right arm Fast medium,Allrounder
-LukmanMeriwala,Capitals,Left hand Bat,Left arm Fast medium,Bowler
-JalajSaxena,Punjab Kings,Right hand Bat,"Right arm Offbreak, Legbreak Googly",Allrounder
-JhyeRichardson,Punjab Kings,Right hand Bat,Right arm Fast,Bowler
-HarbhajanSingh,KKR,Right hand Bat,Right arm Offbreak,Bowler
-ViratSingh,Sunrisers,Left hand Bat,Legbreak Googly,Top order Batter
-MujeebUrRahman,Sunrisers,Right hand Bat,Right arm Offbreak,Bowler
-AjinkyaRahane,Capitals,Right hand Bat,Right arm Medium,Top order Batter
-ShahbazNadeem,Sunrisers,Right hand Bat,Slow Left arm Orthodox,Bowler
-TNatarajan,Sunrisers,Left hand Bat,Left arm Medium,Bowler
-MarcoJansen,Mumbai,Right hand Bat,Left arm Medium fast,Bowling Allrounder
-BenStokes,Royals,Left hand Bat,Right arm Fast medium,Allrounder
-ChrisLynn,Mumbai,Right hand Bat,Slow Left arm Orthodox,Batter
-ObedMcCoy,Royals,Left hand Bat,Left arm Fast medium,Bowler
-MatthewWade,Titans,Left hand Bat,Right arm Medium,Wicketkeeper Batter
-YashDayal,Titans,Right hand Bat,Left arm Medium fast,Bowler
-SaiKishore,Titans,Left hand Bat,Slow Left arm Orthodox,Bowler
-DushmanthaChameera,Super Giants,Right hand Bat,Right arm Fast,Bowler
-MohsinKhan,Super Giants,Left hand Bat,Left arm Medium fast,Bowler
-AlzarriJoseph,Titans,Right hand Bat,Right arm Fast,Bowler
-RomarioShepherd,Sunrisers,Right hand Bat,Right arm Fast medium,Bowling Allrounder
-JiteshSharma,Punjab Kings,Right hand Bat,Not Available,Wicketkeeper Batter
-PrerakMankad,Punjab Kings,Right hand Bat,Right arm Medium,Allrounder
-FazalhaqFarooqi,Sunrisers,Right hand Bat,Left arm Fast medium,Bowler
-MitchellMarsh,Capitals,Right hand Bat,Right arm Medium,Allrounder
-RovmanPowell,Capitals,Right hand Bat,Right arm Medium fast,Middle order Batter
-KuldeepYadav,Capitals,Left hand Bat,Left arm Wrist spin,Bowler
-DewaldBrevis,Mumbai,Right hand Bat,Legbreak,Batting Allrounder
-TilakVarma,Mumbai,Left hand Bat,Right arm Offbreak,Batting Allrounder
-RamandeepSingh,Mumbai,Right hand Bat,Right arm Medium,Middle order Batter
-HrithikShokeen,Mumbai,Right hand Bat,Right arm Offbreak,Bowler
-DevonConway,Super Kings,Left hand Bat,Right arm Medium,Wicketkeeper Batter
-NarayanJagadeesan,Super Kings,Right hand Bat,Not Available,Opening Batter
-MitchellSantner,Super Kings,Left hand Bat,Slow Left arm Orthodox,Bowling Allrounder
-SimarjeetSingh,Super Kings,Right hand Bat,Right arm Medium fast,Bowler
-MukeshChoudhary,Super Kings,Left hand Bat,Left arm Medium,Bowler
-MatheeshaPathirana,Super Kings,Right hand Bat,Right arm Fast,Bowler
-PrashantSolanki,Super Kings,Right hand Bat,Legbreak,Bowler
-AbhijeetTomar,KKR,Right hand Bat,Right arm Offbreak,Opening Batter
-SamBillings,KKR,Right hand Bat,Not Available,Wicketkeeper Batter
-RinkuSingh,KKR,Left hand Bat,Right arm Offbreak,Middle order Batter
-UmeshYadav,KKR,Right hand Bat,Right arm Fast,Bowler
-KrishnappaGowtham,Super Giants,Right hand Bat,Right arm Offbreak,Bowling Allrounder
-TristanStubbs,Mumbai,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter
-SanjayYadav,Mumbai,Left hand Bat,Slow Left arm Orthodox,Allrounder
-BhanukaRajapaksa,Punjab Kings,Left hand Bat,Right arm Medium,Top order Batter
-RishiDhawan,Punjab Kings,Right hand Bat,Right arm Medium fast,Allrounder
-AyushBadoni,Super Giants,Right hand Bat,Right arm Offbreak,Batter
-ShashankSingh,Sunrisers,Right hand Bat,"Right arm Medium, Right arm Offbreak",Batting Allrounder
-MaheeshTheekshana,Super Kings,Right hand Bat,Right arm Offbreak,Bowler
-KumarKartikeya,Mumbai,Right hand Bat,"Slow Left arm Orthodox, Left arm Wrist spin",Bowler
-RassievanderDussen,Royals,Right hand Bat,Legbreak,Top order Batter
-KuldeepSen,Royals,Right hand Bat,Right arm Fast,Bowler
-KaranSharma,Super Giants,Right hand Bat,Right arm Offbreak,Allrounder
-SheldonJackson,KKR,Right hand Bat,Not Available,Wicketkeeper Batter
-BabaIndrajith,KKR,Right hand Bat,Legbreak Googly,Top order Batter
-AaronFinch,KKR,Right hand Bat,Slow Left arm Orthodox,Top order Batter
-AnukulRoy,KKR,Left hand Bat,Slow Left arm Orthodox,Allrounder
-HarshitRana,KKR,Right hand Bat,Right arm Fast,Bowler
-SaiSudharsan,Titans,Left hand Bat,Legbreak,Top order Batter
-PradeepSangwan,Titans,Right hand Bat,Left arm Medium,Bowler
-SeanAbbott,Sunrisers,Right hand Bat,Right arm Fast medium,Bowling Allrounder
-DwainePretorius,Super Kings,Right hand Bat,Right arm Medium fast,Bowling Allrounder
-KarunNair,Royals,Right hand Bat,Right arm Offbreak,Top order Batter
-DarylMitchell,Royals,Right hand Bat,Right arm Medium,Batting Allrounder
-AbhinavManohar,Titans,Right hand Bat,Legbreak Googly,Batting Allrounder
-SuyashPrabhudessai,RCB,Right hand Bat,Right arm Medium,Batting Allrounder
-VaibhavArora,Punjab Kings,Right hand Bat,Right arm Fast medium,Bowler
-OdeanSmith,Punjab Kings,Right hand Bat,Right arm Fast medium,Bowling Allrounder
-TymalMills,Mumbai,Right hand Bat,Left arm Fast,Bowler
-AmanHakimKhan,KKR,Right hand Bat,Right arm Medium,Allrounder
-BasilThampi,Mumbai,Right hand Bat,Right arm Fast medium,Bowler
-AkashDeep,RCB,Right hand Bat,Right arm Fast medium,Bowling Allrounder
-DarshanNalkande,Titans,Right hand Bat,Right arm Fast medium,Bowler
-RasikhSalam,KKR,Right hand Bat,Right arm Medium,Bowler
-DavidWilley,RCB,Left hand Bat,Left arm Fast medium,Bowling Allrounder
-AndrewTye,Super Giants,Right hand Bat,Right arm Medium fast,Bowler
-SherfaneRutherford,RCB,Left hand Bat,Right arm Fast medium,Middle order Batter
-VarunAaron,Titans,Right hand Bat,Right arm Fast,Bowler
-RajBawa,Punjab Kings,Left hand Bat,Right arm Medium fast,Allrounder
-TusharDeshpande,Super Kings,Left hand Bat,Right arm Medium,Bowler
-NoorAhmad,Titans,Right hand Bat,Left arm Wrist spin,Bowler
-JoshLittle,Titans,Right hand Bat,Left arm Fast medium,Bowler
-MohitSharma,Titans,Right hand Bat,Right arm Medium,Bowler
-NehalWadhera,Mumbai,Left hand Bat,Legbreak,Top order Batter
-CameronGreen,Mumbai,Right hand Bat,Right arm Fast medium,Batting Allrounder
-VishnuVinod,Mumbai,Right hand Bat,Not Available,Wicketkeeper Batter
-JasonBehrendorff,Mumbai,Right hand Bat,Left arm Fast medium,Bowler
-AkashMadhwal,Mumbai,Right hand Bat,Right arm Medium fast,Bowler
-KyleMayers,Super Giants,Left hand Bat,Right arm Medium,Batting Allrounder
-Naveen-ul-Haq,Super Giants,Right hand Bat,Right arm Medium fast,Bowler
-YashThakur,Super Giants,Right hand Bat,Right arm Fast medium,Bowler
-DasunShanaka,Titans,Right hand Bat,Right arm Medium,Allrounder
-MichaelBracewell,RCB,Left hand Bat,Right arm Offbreak,Batting Allrounder
-WayneParnell,RCB,Left hand Bat,Left arm Medium fast,Bowler
-VijaykumarVyshak,RCB,Right hand Bat,Right arm Medium,Bowler
-HimanshuSharma,RCB,Right hand Bat,Legbreak,Bowler
-VivrantSharma,Sunrisers,Left hand Bat,Legbreak Googly,Allrounder
-HeinrichKlaasen,Sunrisers,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter
-HarryBrook,Sunrisers,Right hand Bat,Right arm Medium,Batter
-SanvirSingh,Sunrisers,Right hand Bat,Right arm Medium,Allrounder
-NitishKumarReddy,Sunrisers,Right hand Bat,Right arm Medium fast,Batting Allrounder
-MayankDagar,Sunrisers,Right hand Bat,Slow Left arm Orthodox,Bowler
-RahmanullahGurbaz,KKR,Right hand Bat,Not Available,Wicketkeeper Batter
-SuyashSharma,KKR,Right hand Bat,Legbreak Googly,Bowler
-PhilSalt,Capitals,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter
-RileeRossouw,Capitals,Left hand Bat,Right arm Offbreak,Top order Batter
-YashDhull,Capitals,Right hand Bat,Right arm Offbreak,Top order Batter
-AtharvaTaide,Punjab Kings,Left hand Bat,Slow Left arm Orthodox,Batting Allrounder
-DhruvJurel,Royals,Right hand Bat,Not Available,Wicketkeeper Batter
-AdamZampa,Royals,Right hand Bat,Legbreak Googly,Bowler
-KarnSharma,RCB,Left hand Bat,Legbreak Googly,Bowler
-MukeshKumar,Capitals,Right hand Bat,Right arm Medium,Bowler
-SwapnilSingh,Super Giants,Right hand Bat,Slow Left arm Orthodox,Bowler
-JoeRoot,Royals,Right hand Bat,"Right arm Offbreak, Legbreak",Top order Batter
-SikandarRaza,Punjab Kings,Right hand Bat,Right arm Offbreak,Batting Allrounder
-PraveenDubey,Capitals,Right hand Bat,Legbreak Googly,Bowler
-YudhvirSingh,Super Giants,Right hand Bat,Right arm Medium fast,Bowler
-ArshadKhan,Mumbai,Left hand Bat,Left arm Medium,Bowler
-JofraArcher,Mumbai,Right hand Bat,Right arm Fast,Bowler
-RaghavGoyal,Mumbai,Left hand Bat,Left arm Wrist spin,Bowler
-MatthewShort,Punjab Kings,Right hand Bat,Right arm Offbreak,Top order Batter
-AkealHosein,Sunrisers,Left hand Bat,Slow Left arm Orthodox,Bowler
-DavidWiese,KKR,Right hand Bat,Right arm Medium fast,Allrounder
-GurnoorBrar,Punjab Kings,Left hand Bat,Right arm Fast,Bowler
-ArjunTendulkar,Mumbai,Left hand Bat,Left arm Medium fast,Bowler
-KulwantKhejroliya,KKR,Left hand Bat,Left arm Medium fast,Bowler
-AbdulBasith,Royals,Right hand Bat,Right arm Offbreak,Allrounder
-HarpreetSingh,Punjab Kings,Left hand Bat,Right arm Medium,Batter
-LittonDas,KKR,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter
-DuanJansen,Mumbai,Right hand Bat,Left arm Fast,Bowler
-MarkWood,Super Giants,Right hand Bat,Right arm Fast,Bowler
-AbishekPorel,Capitals,Left hand Bat,Not Available,Wicketkeeper Batter
-SisandaMagala,Super Kings,Right hand Bat,Right arm Fast medium,Bowler
-MohitRathee,Punjab Kings,Right hand Bat,Legbreak,Allrounder
-RajvardhanHangargekar,Super Kings,Right hand Bat,Right arm Fast medium,Bowling Allrounder
-ReeceTopley,RCB,Right hand Bat,Left arm Fast medium,Bowler
+name,team,battingStyle,bowlingStyle,playingRole,image
+RuturajGaikwad,Super Kings,Right hand Bat,Right arm Offbreak,Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/102.png
+FafduPlessis,Super Kings,Right hand Bat,Legbreak,Middle order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/94.png
+RobinUthappa,Super Kings,Right hand Bat,Right arm Medium,Batter,https://scores.iplt20.com/ipl/playerimages/Robin%20Uthappa.png?v=4
+MoeenAli,Super Kings,Left hand Bat,Right arm Offbreak,Batting Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/206.png
+ShubmanGill,KKR,Right hand Bat,Right arm Offbreak,Opening Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/62.png
+VenkateshIyer,KKR,Left hand Bat,Right arm Medium,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/584.png
+NitishRana,KKR,Left hand Bat,"Right arm Medium, Right arm Offbreak, Legbreak",Middle order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/148.png
+SunilNarine,KKR,Left hand Bat,Right arm Offbreak,Bowling Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/156.png
+EoinMorgan,KKR,Left hand Bat,Right arm Medium,Middle order Batter,
+DineshKarthik,KKR,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/13.png
+ShakibAlHasan,KKR,Left hand Bat,Slow Left arm Orthodox,Allrounder,https://scores.iplt20.com/ipl/playerimages/Shakib%20Al%20Hasan.png?v=4
+RahulTripathi,KKR,Right hand Bat,Right arm Medium,Top order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/188.png
+LockieFerguson,KKR,Right hand Bat,Right arm Fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/69.png
+ShivamMavi,KKR,Right hand Bat,Right arm Fast medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/154.png
+VarunChakravarthy,KKR,Right hand Bat,Legbreak Googly,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/140.png
+DeepakChahar,Super Kings,Right hand Bat,Right arm Medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/91.png
+JoshHazlewood,Super Kings,Left hand Bat,Right arm Fast medium,Bowler,https://scores.iplt20.com/ipl/playerimages/Josh%20Hazlewood.png?v=4
+ShardulThakur,Super Kings,Right hand Bat,Right arm Medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/105.png
+DwayneBravo,Super Kings,Right hand Bat,Right arm Medium,Allrounder,https://scores.iplt20.com/ipl/playerimages/Dwayne%20Bravo.png?v=4
+RavindraJadeja,Super Kings,Left hand Bat,Slow Left arm Orthodox,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/46.png
+PrithviShaw,Capitals,Right hand Bat,Right arm Offbreak,Opening Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/51.png
+ShikharDhawan,Capitals,Left hand Bat,Right arm Offbreak,Opening Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/11.png
+MarcusStoinis,Capitals,Right hand Bat,Right arm Medium,Batting Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/23.png
+ShreyasIyer,Capitals,Right hand Bat,"Right arm Offbreak, Legbreak Googly",Top order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/12.png
+RishabhPant,Capitals,Left hand Bat,Not Available,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/18.png
+ShimronHetmyer,Capitals,Left hand Bat,Not Available,Top order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/210.png
+AxarPatel,Capitals,Left hand Bat,Slow Left arm Orthodox,Bowling Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/110.png
+AnrichNortje,Capitals,Right hand Bat,Right arm Fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/142.png
+RavichandranAshwin,Capitals,Right hand Bat,Right arm Offbreak,Bowling Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/45.png
+AveshKhan,Capitals,Right hand Bat,Right arm Fast medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/109.png
+KagisoRabada,Capitals,Left hand Bat,Right arm Fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/116.png
+DevduttPadikkal,RCB,Left hand Bat,Right arm Offbreak,Top order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/200.png
+ViratKohli,RCB,Right hand Bat,Right arm Medium,Top order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/2.png
+SrikarBharat,RCB,Right hand Bat,Not Available,Wicketkeeper Batter,
+GlennMaxwell,RCB,Right hand Bat,Right arm Offbreak,Batting Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/28.png
+ABdeVilliers,RCB,Right hand Bat,Right arm Medium,Wicketkeeper Batter,
+ShahbazAhmed,RCB,Left hand Bat,Slow Left arm Orthodox,Allrounder,https://scores.iplt20.com/ipl/playerimages/Shahbaz%20Ahmed.png?v=4
+DanChristian,RCB,Right hand Bat,Right arm Fast medium,Allrounder,
+HarshalPatel,RCB,Right hand Bat,Right arm Medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/114.png
+GeorgeGarton,RCB,Left hand Bat,Left arm Fast,Bowling Allrounder,
+MohammedSiraj,RCB,Right hand Bat,Right arm Fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/63.png
+YuzvendraChahal,RCB,Right hand Bat,Legbreak Googly,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/10.png
+TomCurran,Capitals,Right hand Bat,Right arm Fast medium,Bowling Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/309.png
+AmbatiRayudu,Super Kings,Right hand Bat,Right arm Offbreak,Middle order Batter,https://scores.iplt20.com/ipl/playerimages/Ambati%20Rayudu.png?v=4
+MSDhoni,Super Kings,Right hand Bat,Right arm Medium,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/57.png
+RipalPatel,Capitals,Right hand Bat,Right arm Medium fast,Middle order Batter,https://scores.iplt20.com/ipl/playerimages/Ripal%20Patel.png?v=4
+RohitSharma,Mumbai,Right hand Bat,Right arm Offbreak,Top order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/6.png
+IshanKishan,Mumbai,Left hand Bat,Not Available,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/164.png
+HardikPandya,Mumbai,Right hand Bat,Right arm Medium fast,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/54.png
+KieronPollard,Mumbai,Right hand Bat,Right arm Medium,Batting Allrounder,https://scores.iplt20.com/ipl/playerimages/Kieron%20Pollard.png?v=4
+SuryakumarYadav,Mumbai,Right hand Bat,"Right arm Medium, Right arm Offbreak",Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/174.png
+JamesNeesham,Mumbai,Left hand Bat,Right arm Medium fast,Batting Allrounder,
+KrunalPandya,Mumbai,Left hand Bat,Slow Left arm Orthodox,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/17.png
+NathanCoulter-Nile,Mumbai,Right hand Bat,Right arm Fast,Bowling Allrounder,https://scores.iplt20.com/ipl/playerimages/Nathan%20Coulter-Nile.png?v=4
+PiyushChawla,Mumbai,Left hand Bat,Legbreak,Bowling Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/149.png
+JaspritBumrah,Mumbai,Right hand Bat,Right arm Fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/9.png
+TrentBoult,Mumbai,Right hand Bat,Left arm Fast medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/66.png
+JasonRoy,Sunrisers,Right hand Bat,Not Available,Opening Batter,https://scores.iplt20.com/ipl/playerimages/Jason%20Roy.png?v=4
+AbhishekSharma,Sunrisers,Left hand Bat,Slow Left arm Orthodox,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/212.png
+ManishPandey,Sunrisers,Right hand Bat,Right arm Medium,Top order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/16.png
+MohammadNabi,Sunrisers,Right hand Bat,Right arm Offbreak,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/217.png
+AbdulSamad,Sunrisers,Right hand Bat,Legbreak,Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/525.png
+PriyamGarg,Sunrisers,Right hand Bat,Right arm Medium,Top order Batter,https://scores.iplt20.com/ipl/playerimages/Priyam%20Garg.png?v=4
+JasonHolder,Sunrisers,Right hand Bat,Right arm Medium fast,Bowling Allrounder,https://scores.iplt20.com/ipl/playerimages/Jason%20Holder.png?v=4
+RashidKhan,Sunrisers,Right hand Bat,Legbreak Googly,Bowling Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/218.png
+WriddhimanSaha,Sunrisers,Right hand Bat,Not Available,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/225.png
+SiddarthKaul,Sunrisers,Right hand Bat,Right arm Medium,Bowler,https://scores.iplt20.com/ipl/playerimages/Siddarth%20Kaul.png?v=4
+UmranMalik,Sunrisers,Right hand Bat,Right arm Fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/637.png
+YashasviJaiswal,Royals,Left hand Bat,Legbreak,Opening Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/533.png
+LiamLivingstone,Royals,Right hand Bat,"Right arm Offbreak, Legbreak",Batting Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/183.png
+SanjuSamson,Royals,Right hand Bat,Not Available,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/190.png
+ShivamDube,Royals,Left hand Bat,Right arm Medium,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/211.png
+AnujRawat,Royals,Left hand Bat,Not Available,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/534.png
+GlennPhillips,Royals,Right hand Bat,Right arm Offbreak,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/635.png
+RahulTewatia,Royals,Left hand Bat,Legbreak,Bowling Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/120.png
+ChrisMorris,Royals,Right hand Bat,Right arm Fast medium,Bowling Allrounder,
+JaydevUnadkat,Royals,Right hand Bat,Left arm Medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/180.png
+ChetanSakariya,Royals,Left hand Bat,Left arm Medium fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/592.png
+MustafizurRahman,Royals,Left hand Bat,Left arm Fast medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/258.png
+KLRahul,Punjab Kings,Right hand Bat,Not Available,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/19.png
+MayankAgarwal,Punjab Kings,Right hand Bat,Right arm Offbreak,Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/55.png
+SarfarazKhan,Punjab Kings,Right hand Bat,Legbreak,Middle order Batter,
+MShahrukhKhan,Punjab Kings,Right hand Bat,Right arm Offbreak,Batter,https://scores.iplt20.com/ipl/playerimages/Shahrukh%20Khan.png?v=4
+AidenMarkram,Punjab Kings,Right hand Bat,Right arm Offbreak,Opening Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/287.png
+MoisesHenriques,Punjab Kings,Right hand Bat,Right arm Fast medium,Allrounder,
+MohammedShami,Punjab Kings,Right hand Bat,Right arm Fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2023/47.png
+HarpreetBrar,Punjab Kings,Left hand Bat,Slow Left arm Orthodox,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/130.png
+ArshdeepSingh,Punjab Kings,Left hand Bat,Left arm Medium fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/125.png
+ChrisJordan,Punjab Kings,Right hand Bat,Right arm Fast medium,Bowler,https://scores.iplt20.com/ipl/playerimages/Chris%20Jordan.png?v=4
+RaviBishnoi,Punjab Kings,Right hand Bat,Legbreak Googly,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/520.png
+KaneWilliamson,Sunrisers,Right hand Bat,Right arm Offbreak,Top order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/65.png
+BhuvneshwarKumar,Sunrisers,Right hand Bat,Right arm Medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/15.png
+EvinLewis,Royals,Left hand Bat,Not Available,Opening Batter,https://scores.iplt20.com/ipl/playerimages/Evin%20Lewis.png?v=4
+DavidMiller,Royals,Left hand Bat,Right arm Offbreak,Middle order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/128.png
+ShreyasGopal,Royals,Right hand Bat,Legbreak,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/192.png
+KuldipYadav,Royals,Left hand Bat,Left arm Fast medium,Bowler,
+JayantYadav,Mumbai,Right hand Bat,Right arm Offbreak,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/165.png
+TimSouthee,KKR,Right hand Bat,Right arm Medium fast,Bowler,https://scores.iplt20.com/ipl/playerimages/Tim%20Southee.png?v=4
+NicholasPooran,Punjab Kings,Left hand Bat,Right arm Offbreak,Wicketkeeper Batter,https://scores.iplt20.com/ipl/playerimages/Nicholas%20Pooran.png?v=4
+SureshRaina,Super Kings,Left hand Bat,Right arm Offbreak,Middle order Batter,
+AkashSingh,Royals,Right hand Bat,Left arm Medium fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/535.png
+MayankMarkande,Royals,Right hand Bat,Legbreak,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/87.png
+SamCurran,Super Kings,Left hand Bat,Left arm Medium fast,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/138.png
+KMAsif,Super Kings,Right hand Bat,Right arm Medium,Bowler,
+QuintondeKock,Mumbai,Left hand Bat,Not Available,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/170.png
+SaurabhTiwary,Mumbai,Left hand Bat,Not Available,Top order Batter,
+StevenSmith,Capitals,Right hand Bat,Legbreak Googly,Top order Batter,
+TimSeifert,KKR,Right hand Bat,Not Available,Wicketkeeper Batter,https://scores.iplt20.com/ipl/playerimages/Tim%20Seifert.png?v=4
+DeepakHooda,Punjab Kings,Right hand Bat,Right arm Offbreak,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/215.png
+FabianAllen,Punjab Kings,Right hand Bat,Slow Left arm Orthodox,Bowling Allrounder,https://scores.iplt20.com/ipl/playerimages/Fabian%20Allen.png?v=4
+NathanEllis,Punjab Kings,Right hand Bat,Right arm Fast medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/633.png
+SandeepSharma,Sunrisers,Right hand Bat,Right arm Medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/220.png
+MahipalLomror,Royals,Left hand Bat,Slow Left arm Orthodox,Allrounder,https://scores.iplt20.com/ipl/playerimages/Mahipal%20Lomror.png?v=4
+RiyanParag,Royals,Right hand Bat,Legbreak,Top order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/189.png
+KartikTyagi,Royals,Right hand Bat,Right arm Fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/536.png
+MandeepSingh,Punjab Kings,Right hand Bat,Right arm Medium,Allrounder,https://scores.iplt20.com/ipl/playerimages/Mandeep%20Singh.png?v=4
+ChrisGayle,Punjab Kings,Left hand Bat,Right arm Offbreak,Allrounder,https://scores.iplt20.com/ipl/playerimages/Chris%20Gayle.png?v=4
+RahulChahar,Mumbai,Right hand Bat,Legbreak Googly,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/171.png
+LalitYadav,Capitals,Right hand Bat,Right arm Offbreak,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/538.png
+SandeepWarrier,KKR,Right hand Bat,Right arm Medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/228.png
+KyleJamieson,RCB,Right hand Bat,Right arm Fast medium,Bowler,https://scores.iplt20.com/ipl/playerimages/Kyle%20Jamieson.png?v=4
+AdamMilne,Mumbai,Right hand Bat,Right arm Fast,Bowler,https://scores.iplt20.com/ipl/playerimages/Adam%20Milne.png?v=4
+AndreRussell,KKR,Right hand Bat,Right arm Fast,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/141.png
+PrasidhKrishna,KKR,Right hand Bat,Right arm Fast medium,Bowler,https://scores.iplt20.com/ipl/playerimages/Prasidh%20Krishna.png?v=4
+DavidWarner,Sunrisers,Left hand Bat,Legbreak,Opening Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/214.png
+KedarJadhav,Sunrisers,Right hand Bat,Right arm Offbreak,Batting Allrounder,
+KhaleelAhmed,Sunrisers,Right hand Bat,Left arm Fast medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/8.png
+TabraizShamsi,Royals,Right hand Bat,Left arm Wrist spin,Bowler,
+TimDavid,RCB,Right hand Bat,Right arm Offbreak,Middle order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/636.png
+WaninduHasaranga,RCB,Right hand Bat,Legbreak,Allrounder,https://scores.iplt20.com/ipl/playerimages/Wanindu%20Hasaranga.png?v=4
+NavdeepSaini,RCB,Right hand Bat,Right arm Fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2023/207.png
+IshanPorel,Punjab Kings,Right hand Bat,Right arm Medium,Bowler,
+AdilRashid,Punjab Kings,Right hand Bat,Legbreak,Bowler,
+SachinBaby,RCB,Left hand Bat,Right arm Offbreak,Batter,
+AnmolpreetSingh,Mumbai,Right hand Bat,Right arm Offbreak,Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/159.png
+PrabhsimranSingh,Punjab Kings,Right hand Bat,Not Available,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/137.png
+DawidMalan,Punjab Kings,Left hand Bat,Legbreak,Top order Batter,
+IshantSharma,Capitals,Right hand Bat,Right arm Fast medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/50.png
+RileyMeredith,Punjab Kings,Right hand Bat,Right arm Fast,Bowler,
+JosButtler,Royals,Right hand Bat,Not Available,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/182.png
+JonnyBairstow,Sunrisers,Right hand Bat,Right arm Medium,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/216.png
+VijayShankar,Sunrisers,Right hand Bat,Right arm Medium,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/61.png
+DhawalKulkarni,Mumbai,Right hand Bat,Right arm Medium,Bowler,
+LungiNgidi,Super Kings,Right hand Bat,Right arm Fast medium,Bowler,
+RajatPatidar,RCB,Right hand Bat,Right arm Offbreak,Top order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/597.png
+DanielSams,RCB,Right hand Bat,Left arm Fast medium,Allrounder,https://scores.iplt20.com/ipl/playerimages/Daniel%20Sams.png?v=4
+PatCummins,KKR,Right hand Bat,Right arm Fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/33.png
+JagadeeshaSuchith,Sunrisers,Left hand Bat,Slow Left arm Orthodox,Bowler,https://scores.iplt20.com/ipl/playerimages/Jagadeesha%20Suchith.png?v=4
+WashingtonSundar,RCB,Left hand Bat,Right arm Offbreak,Bowling Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/20.png
+AmitMishra,Capitals,Right hand Bat,Legbreak,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/107.png
+ImranTahir,Super Kings,Right hand Bat,Legbreak Googly,Bowler,
+MananVohra,Royals,Right hand Bat,Right arm Medium,Opening Batter,https://scores.iplt20.com/ipl/playerimages/Manan%20Vohra.png?v=4
+KaneRichardson,RCB,Right hand Bat,Right arm Fast medium,Bowler,
+KamleshNagarkoti,KKR,Right hand Bat,Right arm Fast,Bowler,https://scores.iplt20.com/ipl/playerimages/Kamlesh%20Nagarkoti.png?v=4
+MuruganAshwin,Punjab Kings,Right hand Bat,Legbreak Googly,Bowler,https://scores.iplt20.com/ipl/playerimages/Murugan%20Ashwin.png?v=4
+ChrisWoakes,Capitals,Right hand Bat,Right arm Fast medium,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/314.png
+LukmanMeriwala,Capitals,Left hand Bat,Left arm Fast medium,Bowler,
+JalajSaxena,Punjab Kings,Right hand Bat,"Right arm Offbreak, Legbreak Googly",Allrounder,
+JhyeRichardson,Punjab Kings,Right hand Bat,Right arm Fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/59.png
+HarbhajanSingh,KKR,Right hand Bat,Right arm Offbreak,Bowler,https://scores.iplt20.com/ipl/playerimages/Harbhajan%20Singh.png?v=4
+ViratSingh,Sunrisers,Left hand Bat,Legbreak Googly,Top order Batter,
+MujeebUrRahman,Sunrisers,Right hand Bat,Right arm Offbreak,Bowler,
+AjinkyaRahane,Capitals,Right hand Bat,Right arm Medium,Top order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/44.png
+ShahbazNadeem,Sunrisers,Right hand Bat,Slow Left arm Orthodox,Bowler,
+TNatarajan,Sunrisers,Left hand Bat,Left arm Medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/224.png
+MarcoJansen,Mumbai,Right hand Bat,Left arm Medium fast,Bowling Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/586.png
+BenStokes,Royals,Left hand Bat,Right arm Fast medium,Allrounder,https://scores.iplt20.com/ipl/playerimages/Ben%20Stokes.png?v=4
+ChrisLynn,Mumbai,Right hand Bat,Slow Left arm Orthodox,Batter,
+ObedMcCoy,Royals,Left hand Bat,Left arm Fast medium,Bowler,https://scores.iplt20.com/ipl/playerimages/Obed%20McCoy.png?v=4
+MatthewWade,Titans,Left hand Bat,Right arm Medium,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/549.png
+YashDayal,Titans,Right hand Bat,Left arm Medium fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/978.png
+SaiKishore,Titans,Left hand Bat,Slow Left arm Orthodox,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/544.png
+DushmanthaChameera,Super Giants,Right hand Bat,Right arm Fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/608.png
+MohsinKhan,Super Giants,Left hand Bat,Left arm Medium fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/541.png
+AlzarriJoseph,Titans,Right hand Bat,Right arm Fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/229.png
+RomarioShepherd,Sunrisers,Right hand Bat,Right arm Fast medium,Bowling Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/371.png
+JiteshSharma,Punjab Kings,Right hand Bat,Not Available,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/1000.png
+PrerakMankad,Punjab Kings,Right hand Bat,Right arm Medium,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/998.png
+FazalhaqFarooqi,Sunrisers,Right hand Bat,Left arm Fast medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/1011.png
+MitchellMarsh,Capitals,Right hand Bat,Right arm Medium,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/40.png
+RovmanPowell,Capitals,Right hand Bat,Right arm Medium fast,Middle order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/329.png
+KuldeepYadav,Capitals,Left hand Bat,Left arm Wrist spin,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/14.png
+DewaldBrevis,Mumbai,Right hand Bat,Legbreak,Batting Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/797.png
+TilakVarma,Mumbai,Left hand Bat,Right arm Offbreak,Batting Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/993.png
+RamandeepSingh,Mumbai,Right hand Bat,Right arm Medium,Middle order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/991.png
+HrithikShokeen,Mumbai,Right hand Bat,Right arm Offbreak,Bowler,https://scores.iplt20.com/ipl/playerimages/Hrithik%20Shokeen.png?v=4
+DevonConway,Super Kings,Left hand Bat,Right arm Medium,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2023/601.png
+NarayanJagadeesan,Super Kings,Right hand Bat,Not Available,Opening Batter,https://scores.iplt20.com/ipl/playerimages/Jagadeesan%20Narayan.png?v=4
+MitchellSantner,Super Kings,Left hand Bat,Slow Left arm Orthodox,Bowling Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/75.png
+SimarjeetSingh,Super Kings,Right hand Bat,Right arm Medium fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/622.png
+MukeshChoudhary,Super Kings,Left hand Bat,Left arm Medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/970.png
+MatheeshaPathirana,Super Kings,Right hand Bat,Right arm Fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/1014.png
+PrashantSolanki,Super Kings,Right hand Bat,Legbreak,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/972.png
+AbhijeetTomar,KKR,Right hand Bat,Right arm Offbreak,Opening Batter,https://scores.iplt20.com/ipl/playerimages/Abhijeet%20Tomar.png?v=4
+SamBillings,KKR,Right hand Bat,Not Available,Wicketkeeper Batter,https://scores.iplt20.com/ipl/playerimages/Sam%20Billings.png?v=4
+RinkuSingh,KKR,Left hand Bat,Right arm Offbreak,Middle order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/152.png
+UmeshYadav,KKR,Right hand Bat,Right arm Fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/21.png
+KrishnappaGowtham,Super Giants,Right hand Bat,Right arm Offbreak,Bowling Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/179.png
+TristanStubbs,Mumbai,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/1017.png
+SanjayYadav,Mumbai,Left hand Bat,Slow Left arm Orthodox,Allrounder,
+BhanukaRajapaksa,Punjab Kings,Left hand Bat,Right arm Medium,Top order Batter,https://scores.iplt20.com/ipl/playerimages/Bhanuka%20Rajapaksa.png?v=4
+RishiDhawan,Punjab Kings,Right hand Bat,Right arm Medium fast,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/996.png
+AyushBadoni,Super Giants,Right hand Bat,Right arm Offbreak,Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/985.png
+ShashankSingh,Sunrisers,Right hand Bat,"Right arm Medium, Right arm Offbreak",Batting Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/191.png
+MaheeshTheekshana,Super Kings,Right hand Bat,Right arm Offbreak,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/629.png
+KumarKartikeya,Mumbai,Right hand Bat,"Slow Left arm Orthodox, Left arm Wrist spin",Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/1015.png
+RassievanderDussen,Royals,Right hand Bat,Legbreak,Top order Batter,https://scores.iplt20.com/ipl/playerimages/Rassie%20van%20der%20Dussen.png?v=4
+KuldeepSen,Royals,Right hand Bat,Right arm Fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/1005.png
+KaranSharma,Super Giants,Right hand Bat,Right arm Offbreak,Allrounder,https://scores.iplt20.com/ipl/playerimages/Karan%20Sharma.png?v=4
+SheldonJackson,KKR,Right hand Bat,Not Available,Wicketkeeper Batter,https://scores.iplt20.com/ipl/playerimages/Sheldon%20Jackson.png?v=4
+BabaIndrajith,KKR,Right hand Bat,Legbreak Googly,Top order Batter,
+AaronFinch,KKR,Right hand Bat,Slow Left arm Orthodox,Top order Batter,https://scores.iplt20.com/ipl/playerimages/Aaron%20Finch.png?v=4
+AnukulRoy,KKR,Left hand Bat,Slow Left arm Orthodox,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/160.png
+HarshitRana,KKR,Right hand Bat,Right arm Fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/1013.png
+SaiSudharsan,Titans,Left hand Bat,Legbreak,Top order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/976.png
+PradeepSangwan,Titans,Right hand Bat,Left arm Medium,Bowler,https://scores.iplt20.com/ipl/playerimages/Pradeep%20Sangwan.png?v=4
+SeanAbbott,Sunrisers,Right hand Bat,Right arm Fast medium,Bowling Allrounder,https://scores.iplt20.com/ipl/playerimages/Sean%20Abbott.png?v=4
+DwainePretorius,Super Kings,Right hand Bat,Right arm Medium fast,Bowling Allrounder,https://scores.iplt20.com/ipl/playerimages/Dwaine%20Pretorius.png?v=4
+KarunNair,Royals,Right hand Bat,Right arm Offbreak,Top order Batter,https://scores.iplt20.com/ipl/playerimages/Karun%20Nair.png?v=4
+DarylMitchell,Royals,Right hand Bat,Right arm Medium,Batting Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/83.png
+AbhinavManohar,Titans,Right hand Bat,Legbreak Googly,Batting Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/974.png
+SuyashPrabhudessai,RCB,Right hand Bat,Right arm Medium,Batting Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/598.png
+VaibhavArora,Punjab Kings,Right hand Bat,Right arm Fast medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/583.png
+OdeanSmith,Punjab Kings,Right hand Bat,Right arm Fast medium,Bowling Allrounder,https://scores.iplt20.com/ipl/playerimages/Odean%20Smith.png?v=4
+TymalMills,Mumbai,Right hand Bat,Left arm Fast,Bowler,
+AmanHakimKhan,KKR,Right hand Bat,Right arm Medium,Allrounder,https://scores.iplt20.com/ipl/playerimages/Aman%20Khan.png?v=4
+BasilThampi,Mumbai,Right hand Bat,Right arm Fast medium,Bowler,
+AkashDeep,RCB,Right hand Bat,Right arm Fast medium,Bowling Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/1007.png
+DarshanNalkande,Titans,Right hand Bat,Right arm Fast medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/127.png
+RasikhSalam,KKR,Right hand Bat,Right arm Medium,Bowler,https://scores.iplt20.com/ipl/playerimages/Rasikh%20Salam.png?v=4
+DavidWilley,RCB,Left hand Bat,Left arm Fast medium,Bowling Allrounder,https://scores.iplt20.com/ipl/playerimages/David%20Willey.png?v=4
+AndrewTye,Super Giants,Right hand Bat,Right arm Medium fast,Bowler,
+SherfaneRutherford,RCB,Left hand Bat,Right arm Fast medium,Middle order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/122.png
+VarunAaron,Titans,Right hand Bat,Right arm Fast,Bowler,
+RajBawa,Punjab Kings,Left hand Bat,Right arm Medium fast,Allrounder,https://scores.iplt20.com/ipl/playerimages/Rajangad%20Bawa.png?v=4
+TusharDeshpande,Super Kings,Left hand Bat,Right arm Medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/539.png
+NoorAhmad,Titans,Right hand Bat,Left arm Wrist spin,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/975.png
+JoshLittle,Titans,Right hand Bat,Left arm Fast medium,Bowler,
+MohitSharma,Titans,Right hand Bat,Right arm Medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/100.png
+NehalWadhera,Mumbai,Left hand Bat,Legbreak,Top order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/1541.png
+CameronGreen,Mumbai,Right hand Bat,Right arm Fast medium,Batting Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/550.png
+VishnuVinod,Mumbai,Right hand Bat,Not Available,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/581.png
+JasonBehrendorff,Mumbai,Right hand Bat,Left arm Fast medium,Bowler,https://scores.iplt20.com/ipl/playerimages/Jason%20Behrendorff.png?v=4
+AkashMadhwal,Mumbai,Right hand Bat,Right arm Medium fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/1045.png
+KyleMayers,Super Giants,Left hand Bat,Right arm Medium,Batting Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/726.png
+Naveen-ul-Haq,Super Giants,Right hand Bat,Right arm Medium fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/639.png
+YashThakur,Super Giants,Right hand Bat,Right arm Fast medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/1550.png
+DasunShanaka,Titans,Right hand Bat,Right arm Medium,Allrounder,https://scores.iplt20.com/ipl/playerimages/Dasun%20Shanaka.png?v=4
+MichaelBracewell,RCB,Left hand Bat,Right arm Offbreak,Batting Allrounder,
+WayneParnell,RCB,Left hand Bat,Left arm Medium fast,Bowler,
+VijaykumarVyshak,RCB,Right hand Bat,Right arm Medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/2034.png
+HimanshuSharma,RCB,Right hand Bat,Legbreak,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/1568.png
+VivrantSharma,Sunrisers,Left hand Bat,Legbreak Googly,Allrounder,https://scores.iplt20.com/ipl/playerimages/Vivrant%20Sharma.png?v=4
+HeinrichKlaasen,Sunrisers,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/202.png
+HarryBrook,Sunrisers,Right hand Bat,Right arm Medium,Batter,https://scores.iplt20.com/ipl/playerimages/Harry%20Brook.png?v=4
+SanvirSingh,Sunrisers,Right hand Bat,Right arm Medium,Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/1943.png
+NitishKumarReddy,Sunrisers,Right hand Bat,Right arm Medium fast,Batting Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/1944.png
+MayankDagar,Sunrisers,Right hand Bat,Slow Left arm Orthodox,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/1547.png
+RahmanullahGurbaz,KKR,Right hand Bat,Not Available,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/641.png
+SuyashSharma,KKR,Right hand Bat,Legbreak Googly,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/1932.png
+PhilSalt,Capitals,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/1220.png
+RileeRossouw,Capitals,Left hand Bat,Right arm Offbreak,Top order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/1426.png
+YashDhull,Capitals,Right hand Bat,Right arm Offbreak,Top order Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/777.png
+AtharvaTaide,Punjab Kings,Left hand Bat,Slow Left arm Orthodox,Batting Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/1001.png
+DhruvJurel,Royals,Right hand Bat,Not Available,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/1004.png
+AdamZampa,Royals,Right hand Bat,Legbreak Googly,Bowler,https://scores.iplt20.com/ipl/playerimages/Adam%20Zampa.png?v=4
+KarnSharma,RCB,Left hand Bat,Legbreak Googly,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/98.png
+MukeshKumar,Capitals,Right hand Bat,Right arm Medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/1462.png
+SwapnilSingh,Super Giants,Right hand Bat,Slow Left arm Orthodox,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/1483.png
+JoeRoot,Royals,Right hand Bat,"Right arm Offbreak, Legbreak",Top order Batter,https://scores.iplt20.com/ipl/playerimages/Joe%20Root.png?v=4
+SikandarRaza,Punjab Kings,Right hand Bat,Right arm Offbreak,Batting Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/820.png
+PraveenDubey,Capitals,Right hand Bat,Legbreak Googly,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/548.png
+YudhvirSingh,Super Giants,Right hand Bat,Right arm Medium fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/587.png
+ArshadKhan,Mumbai,Left hand Bat,Left arm Medium,Bowler,https://scores.iplt20.com/ipl/playerimages/Arshad%20Khan.png?v=4
+JofraArcher,Mumbai,Right hand Bat,Right arm Fast,Bowler,https://scores.iplt20.com/ipl/playerimages/Jofra%20Archer.png?v=4
+RaghavGoyal,Mumbai,Left hand Bat,Left arm Wrist spin,Bowler,
+MatthewShort,Punjab Kings,Right hand Bat,Right arm Offbreak,Top order Batter,https://scores.iplt20.com/ipl/playerimages/Matthew%20Short.png?v=4
+AkealHosein,Sunrisers,Left hand Bat,Slow Left arm Orthodox,Bowler,https://scores.iplt20.com/ipl/playerimages/Akeal%20Hosein.png?v=4
+DavidWiese,KKR,Right hand Bat,Right arm Medium fast,Allrounder,https://scores.iplt20.com/ipl/playerimages/David%20Wiese.png?v=4
+GurnoorBrar,Punjab Kings,Left hand Bat,Right arm Fast,Bowler,
+ArjunTendulkar,Mumbai,Left hand Bat,Left arm Medium fast,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/585.png
+KulwantKhejroliya,KKR,Left hand Bat,Left arm Medium fast,Bowler,
+AbdulBasith,Royals,Right hand Bat,Right arm Offbreak,Allrounder,https://scores.iplt20.com/ipl/playerimages/Abdul%20Basith.png?v=4
+HarpreetSingh,Punjab Kings,Left hand Bat,Right arm Medium,Batter,
+LittonDas,KKR,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter,
+DuanJansen,Mumbai,Right hand Bat,Left arm Fast,Bowler,
+MarkWood,Super Giants,Right hand Bat,Right arm Fast,Bowler,https://scores.iplt20.com/ipl/playerimages/Mark%20Wood.png?v=4
+AbishekPorel,Capitals,Left hand Bat,Not Available,Wicketkeeper Batter,https://assets.iplt20.com/ipl/IPLHeadshot2024/1580.png
+SisandaMagala,Super Kings,Right hand Bat,Right arm Fast medium,Bowler,
+MohitRathee,Punjab Kings,Right hand Bat,Legbreak,Allrounder,https://scores.iplt20.com/ipl/playerimages/Mohit%20Rathee.png?v=4
+RajvardhanHangargekar,Super Kings,Right hand Bat,Right arm Fast medium,Bowling Allrounder,https://assets.iplt20.com/ipl/IPLHeadshot2024/783.png
+ReeceTopley,RCB,Right hand Bat,Left arm Fast medium,Bowler,https://assets.iplt20.com/ipl/IPLHeadshot2024/574.png
